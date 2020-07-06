@@ -18,3 +18,4 @@ public class PaymentTesting {
         System.out.println(pay.findByName("T-shirt"));
     }
 }
+// Молодец, неплохо справилась. Ошибок в решеии задач нет.
